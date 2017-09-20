@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Imagen Cámara</string>
+    <string name="txt_abrir_camara">Capturar imagen</string>
+</resources>
